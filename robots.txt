@@ -1,0 +1,66 @@
+# robots.txt para Technotian - Desarrollo Web y Software Personalizado
+
+# Permitir acceso completo a todos los motores de búsqueda
+User-agent: *
+Allow: /
+
+# Optimización específica por motor de búsqueda
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+# Permitir bots de redes sociales
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Permitir acceso a recursos estáticos importantes
+Allow: /img/
+Allow: /css/
+Allow: /js/
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.ico$
+
+# Bloquear archivos innecesarios para SEO
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /.env
+Disallow: /config/
+Disallow: /temp/
+Disallow: /logs/
+Disallow: /backup/
+Disallow: /admin/
+Disallow: /.htaccess
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+# Ubicación del sitemap
+Sitemap: https://technotian.com/sitemap.xml
+
+# Información adicional para motores de búsqueda
+# Enfoque principal: desarrollo web, software personalizado, automatización empresarial
+# Área geográfica: Colombia
+# Servicios: desarrollo web, automatización, marketing digital, consultoría tecnológica

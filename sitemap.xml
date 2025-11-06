@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Página principal -->
+    <url>
+        <loc>https://technotian.com/</loc>
+        <lastmod>2025-11-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://technotian.com/img/logotipe-2.png</image:loc>
+            <image:title>Technotian - Logo empresa desarrollo web</image:title>
+            <image:caption>Logo principal de Technotian, empresa de desarrollo web y software</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Sección Servicios -->
+    <url>
+        <loc>https://technotian.com/#services</loc>
+        <lastmod>2025-11-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Sección Experiencia -->
+    <url>
+        <loc>https://technotian.com/#experience</loc>
+        <lastmod>2025-11-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://technotian.com/img/oficina-h.png</image:loc>
+            <image:title>Software administrativo empresarial</image:title>
+            <image:caption>Sistemas de gestión administrativa desarrollados por Technotian</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://technotian.com/img/turism.png</image:loc>
+            <image:title>Software para turismo y hotelería</image:title>
+            <image:caption>Plataformas de reservas y gestión turística</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://technotian.com/img/salud-h.png</image:loc>
+            <image:title>Software médico y hospitalario</image:title>
+            <image:caption>Sistemas de historia clínica y gestión hospitalaria</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://technotian.com/img/social-media-h.png</image:loc>
+            <image:title>Software de marketing digital</image:title>
+            <image:caption>Herramientas de automatización de marketing y CRM</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://technotian.com/img/logistica-h.png</image:loc>
+            <image:title>Software logístico portuario</image:title>
+            <image:caption>Sistemas de gestión portuaria y control logístico</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Sección Contacto -->
+    <url>
+        <loc>https://technotian.com/#contact</loc>
+        <lastmod>2025-11-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Recursos adicionales -->
+    <url>
+        <loc>https://technotian.com/robots.txt</loc>
+        <lastmod>2025-11-06</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.1</priority>
+    </url>
+    
+</urlset>
