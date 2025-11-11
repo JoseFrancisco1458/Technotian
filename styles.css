@@ -217,7 +217,7 @@ header a:hover{
 }
 
 header img{
-    width: clamp(280px, 35dvw, 500px); 
+    width: clamp(280px, 35vw, 500px); 
     margin: 0 auto;
     display: block;
     opacity: 0;
@@ -226,7 +226,7 @@ header img{
 
 @media (min-width: 720px) {
     header img {
-        width: clamp(200px, 30dvw, 300px); 
+        width: clamp(200px, 30vw, 300px); 
     }
 }
 
@@ -831,7 +831,7 @@ header img{
 }
 
 .footer-section img{
-    width: clamp(150px, 60dvw, 350px); 
+    width: clamp(150px, 60vw, 350px); 
     margin-bottom: 20px;
     margin-top: 20px;
 }
