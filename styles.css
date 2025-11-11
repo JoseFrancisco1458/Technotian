@@ -61,8 +61,8 @@ html {
     top: 0;
     left: 50%;
     transform: translateX(-50%) scaleX(-1); 
-    width: 100%;
-    height: 100%;
+    width: 85%;
+    height: 85%;
     z-index: 1;
 }
 
@@ -930,7 +930,7 @@ header img{
     margin-bottom: 20px;
 }
 
-@media (min-width: 720px) {
+@media (min-width: 1050px) {
     .footer-container{
         display: flex;
         flex-direction: row;
